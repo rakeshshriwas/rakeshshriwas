@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Shriwas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm passionate about building modern, user-friendly web applications and contributing to open-source projects. With [X] years of experience in frontend development, I specialize in creating responsive and interactive user interfaces using cutting-edge technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshshriwas&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshshriwas" /> </p>
 
