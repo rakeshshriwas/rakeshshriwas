@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rakesh Shriwas</h1>
-<p> Senior Frontend developer with 7 years of experience designing and building scalable, high-performance web applications.</p>
+<p> Senior Frontend developer with 8+ years of experience designing and building scalable, high-performance web applications.</p>
 <h2>My stack 👨‍💻</h2>
 <p>
   <a href="https://skillicons.dev">
