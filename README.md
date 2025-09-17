@@ -8,6 +8,6 @@
 </p>
 <h2>Contact me</h2>
 <div dir="auto">
-<p dir="auto"><a href="https://www.linkedin.com/in/rakeshshrivas/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Laragon-0E83CD.svg?style=for-the-badge&logo=Laragon&logoColor=white" alt="Linkedin Badge"  style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://www.linkedin.com/in/rakeshshrivas/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"  style="max-width: 100%;"></a>
 <a href="mailto:rakesh.shriwas88@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge" data-canonical-src=" style="max-width: 100%;"></a></p>
 </div>
